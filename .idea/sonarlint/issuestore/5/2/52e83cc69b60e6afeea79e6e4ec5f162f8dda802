@@ -1,0 +1,7 @@
+
+v	java:S116"URename this field "FIELD_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÁªŸþÿÿÿÿ8²ð€ô¢2
+C
+java:S1170"!Make this final field static too.(ÌÁªŸþÿÿÿÿ8³ð€ô¢2
+G	java:S106"+Replace this use of System.out by a logger.(þÓ‡á8Êð€ô¢2
+Q
+java:S1144"/Remove this unused private "printField" method.(ì«ø®þÿÿÿÿ8Ëð€ô¢2
